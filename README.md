@@ -55,7 +55,7 @@ copy path present in the browser
 
 - Nexus → settings → repo → create → maven2 hosted → name(backend) → version ploicy(mixed) → layout policy(permissiva) → deployment policy (allow redeploy) → create → copy url
 
-- Jenkins → Manage jenkins → create node(expense) → remote root(/home/ec2-user/jenkins-agent) → Labels(AGENT-1) → Usage(only build jobs) → launch via ssh → jenkins-agent.eswarsaikumar.site
+- Jenkins → Manage jenkins → create node(expense) → remote root(/home/ec2-user/jenkins-agent) → Labels(AGENT-1) → Usage(only build jobs) → launch via ssh → jenkins-agent.pilotgab.site
 
 - Jenkins → Expense folder → ok
 
@@ -104,4 +104,4 @@ Github will scan continuously
 
 DAST: ()
 
-- Browser → Veracode → add target → web appn → next → target name: expense → url: web-cdn.eswarsaikumar.site → default team → next → quick scan → create target → run analysis
+- Browser → Veracode → add target → web appn → next → target name: expense → url: web-cdn.pilotgab.site → default team → next → quick scan → create target → run analysis
